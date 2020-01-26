@@ -1,0 +1,15 @@
+{
+  "name": "com.pyxlmedia.spatial",
+  "displayName": "PyxlMedia Spatial",
+  "version": "0.0.1",
+  "unity": "2019.3",
+  "release": "0f5",
+  "author": "Brandon Tom",
+  "keywords": [
+    "spatial"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magicink/com.pyxlmedia.spatial.git"
+  }
+}
